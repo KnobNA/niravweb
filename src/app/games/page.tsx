@@ -38,8 +38,8 @@ export default function GamesPage() {
             Aperiodic Cellular Automata
           </h1>
           <p className="mx-auto mt-6 max-w-xl text-lg leading-relaxed text-white/90">
-            Remember Conway's game of life? Well this is basically the same thing but on a Penrose tiling. The rules are slightly different
-            but same idea. This game was inspired by Adam P. Goucher's paper, <a href="https://cp4space.hatsya.com/wp-content/uploads/2012/11/2012-penrose-gliders.pdf" target="_blank" rel="noopener noreferrer" className="text-[var(--secondary)] hover:text-[var(--primary-light)]">Gliders in cellular automata on Penrose tilings</a>.
+            Remember Conway&apos;s game of life? Well this is basically the same thing but on a Penrose tiling. The rules are slightly different
+            but same idea. This game was inspired by Adam P. Goucher&apos;s paper, <a href="https://cp4space.hatsya.com/wp-content/uploads/2012/11/2012-penrose-gliders.pdf" target="_blank" rel="noopener noreferrer" className="text-[var(--secondary)] hover:text-[var(--primary-light)]">Gliders in cellular automata on Penrose tilings</a>.
           </p>
           <Link
             href="/games/aperiodic-cellular-automata"
